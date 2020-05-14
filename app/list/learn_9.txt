@@ -1,0 +1,52 @@
+{
+	"status": 200,
+	"message": "OK",
+	"result": {
+		"total": 3,
+		"hasPrevious": false,
+		"hasNext": false,
+		"entities": [{
+			"unique": "ff8080816a4d2c93016abb0e43f417d8",
+			"created": 1557916435443,
+			"updated": 1557917291877,
+			"status": "ACTIVED",
+			"name": "缓解焦虑",
+			"description": "缓解焦虑",
+			"visible": 1,
+			"sequence": 1,
+			"bgImg": "https://avocadolife.github.io/app/data/FgMLouiMUENFRfNSXIjPaJz61_oo",
+			"needPay": 1,
+			"url": "https://avocadolife.github.io/app/data/lgCJDfiMIvxAPaoxvS-iXLxztFbE",
+			"duration": 163,
+			"md5": "6d24800b140a9b24642642cc63f9a39c"
+		}, {
+			"unique": "ff8080816a4d2c17016abb0f17091884",
+			"created": 1557916489479,
+			"updated": 1557917301989,
+			"status": "ACTIVED",
+			"name": "渐入梦境",
+			"description": "渐入梦境",
+			"visible": 1,
+			"sequence": 2,
+			"bgImg": "https://avocadolife.github.io/app/data/FkmexmADDPY_OentKdeV4omNT3ma",
+			"needPay": 1,
+			"url": "https://avocadolife.github.io/app/data/lo0pdblvbSJ_q-tnYvqF-lFCiOMh",
+			"duration": 372,
+			"md5": "1681c243a1d7a4374ac86c198b8df390"
+		}, {
+			"unique": "ff8080816a4d2d09016abb0fd0f7182a",
+			"created": 1557916537079,
+			"updated": 1557921328651,
+			"status": "ACTIVED",
+			"name": "自然入睡",
+			"description": "自然入睡",
+			"visible": 1,
+			"sequence": 3,
+			"bgImg": "https://avocadolife.github.io/app/data/FrVdwRACIZqTiPJIKtn1kV2bUgnG",
+			"needPay": 1,
+			"url": "https://avocadolife.github.io/app/data/lrbVjs5sB_IhwiIAn-VVl8Zq4yuc",
+			"duration": 229,
+			"md5": "1548d47985050096f2a5c31ba6de6b5c"
+		}]
+	}
+}
