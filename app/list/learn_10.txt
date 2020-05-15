@@ -6,20 +6,6 @@
 		"hasPrevious": false,
 		"hasNext": false,
 		"entities": [{
-			"unique": "ff8080816a4d2d09016b214c9ffb3392",
-			"created": 1559631798267,
-			"updated": 1559633400820,
-			"status": "ACTIVED",
-			"name": "大师说",
-			"description": "颂钵-杨力虹 大师说",
-			"visible": 1,
-			"sequence": 1,
-			"bgImg": "https://avocadolife.github.io/app/data/Fg6TlySgBp6mQ5VvKF7RfWtc0Qh-",
-			"needPay": 1,
-			"url": "https://avocadolife.github.io/app/data/Fmt9JVhMfTmS0TfCCnU7EC7s10x_",
-			"duration": 153,
-			"md5": "3d16a61c05c606071796e114a97bee6c"
-		}, {
 			"unique": "ff8080816a4d2c93016b209b763d322d",
 			"created": 1559620187708,
 			"updated": 1559631523773,

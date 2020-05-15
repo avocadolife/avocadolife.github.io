@@ -6,20 +6,6 @@
 		"hasPrevious": false,
 		"hasNext": false,
 		"entities": [{
-			"unique": "ff8080816a4d2c17016b21520bde33b5",
-			"created": 1559632153565,
-			"updated": 1559633412567,
-			"status": "ACTIVED",
-			"name": "大师说",
-			"description": "王熙皓-大师说",
-			"visible": 1,
-			"sequence": 1,
-			"bgImg": "https://avocadolife.github.io/app/data/Frl1zPbNnQ5mfM7oCiR27bJbZPLm",
-			"needPay": 1,
-			"url": "https://avocadolife.github.io/app/data/Fr1FTxzV5JnRp1xY8rIp5pls7Knf",
-			"duration": 71,
-			"md5": "b0a759d6c3a0c38eeba7794f87dee293"
-		}, {
 			"unique": "ff8080816a4d2c17016b21532ed233b7",
 			"created": 1559632228049,
 			"updated": 1559632228049,
